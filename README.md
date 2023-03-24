@@ -1,2 +1,2 @@
 # BoraCodar-jafkoliveira
-Projetos disponibilizado por Rocketseat para aquisição de portfolios
+Projetos disponibilizado por Rocketseat para treinar e aquisição de portfolios
